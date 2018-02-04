@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KHALISA VIRRA_1202154312_Modul1</string>
+    <string name="activity2_name">StudyCase</string>
+    <string name="text_header">Makan Malam</string>
+    <string name="text_header2">dengan Milea</string>
+    <string name="text_menu">Masukkan Menu Makanan</string>
+    <string name="text_porsi">Masukkan Porsi Makanan</string>
+    <string name="button_eat">EATBUS</string>
+    <string name="button_ab">ABNORMAL</string>
+    <string name="menu">Menu</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+</resources>
